@@ -1,6 +1,6 @@
 cask "powerpeek" do
-  version "0.1.0"
-  sha256 "b04841c378389ba885d3fb4f707a5350e37612c93c3c11dd427cda3ff8b6dfcd"
+  version "1.0.0"
+  sha256 "1591fa3122dff689e948f5a0a668dcfd3c07b2d463debc8abdb3e9b62a824b4f"
 
   url "https://github.com/blueview13/powerpeek/releases/download/v#{version}/PowerPeek-#{version}.dmg"
 
